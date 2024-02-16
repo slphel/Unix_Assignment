@@ -1,6 +1,6 @@
 ## Course Assignments
 
-This us the Unix Assignment for BCB 546 Class at Iowa State. 
+This is the Unix Assignment for BCB 546 Class at Iowa State. 
 
 All files created for the Maize SNPS are in the "maizefolder". All files created for the Teosinte SNPS are in the "teosfolder". All other files created are in the "extrafiles" folder to clear things up. 
 
